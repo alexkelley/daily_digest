@@ -10,9 +10,10 @@ Technology used:
 * PRAW: The Python Reddit API Wrapper
 * BeautifulSoup
 * Bash scripting
-* Various publicly available APIs
+* Various publicly available APIs for updated news, weather and horoscope data
 
 Screenshots of daily email sent:
+
 ![first](https://github.com/alexkelley/daily_digest/blob/master/first.PNG)
 
 ![second](https://github.com/alexkelley/daily_digest/blob/master/second.PNG)
