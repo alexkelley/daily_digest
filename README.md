@@ -2,11 +2,19 @@
 ## Personalized, Automated Daily Digest Script
 
 Technology used:
-
+* Python3
+* SQL
+* Django
+* Jinja2
+* Gmail API
+* PRAW: The Python Reddit API Wrapper
+* BeautifulSoup
+* Bash scripting
+* Various publicly available APIs
 
 Screenshots of daily email sent:
-(https://github.com/alexkelley/daily_digest/blob/master/first.PNG)
+![first](https://github.com/alexkelley/daily_digest/blob/master/first.PNG)
 
-(https://github.com/alexkelley/daily_digest/blob/master/second.PNG)
+![second](https://github.com/alexkelley/daily_digest/blob/master/second.PNG)
 
-(https://github.com/alexkelley/daily_digest/blob/master/third.PNG)
+![third](https://github.com/alexkelley/daily_digest/blob/master/third.PNG)
