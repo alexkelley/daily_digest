@@ -1,1 +1,4 @@
-Automated Daily Digest Script
+# Alex's Robot
+## Personalized, Automated Daily Digest Script
+
+
