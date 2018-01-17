@@ -1,0 +1,25 @@
+-f /usr/share/pip-wheels
+beautifulsoup4==4.4.1
+decorator==4.0.10
+Django==1.10
+email==6.0.0a1
+feedparser==5.2.1
+google-api-python-client==1.5.1
+HTMLParser==0.0.2
+httplib2==0.9.2
+Jinja2==2.8
+lxml==3.6.4
+MarkupSafe==0.23
+oauth2client==2.2.0
+praw==4.1.0
+prawcore==0.5.0
+pyasn1==0.1.9
+pyasn1-modules==0.0.8
+-e git+https://alex_kelley@bitbucket.org/alex_kelley/daily_digest.git@8fd6e8a9cda389ed7423f785ba05cd4d107f496c#egg=pywapi&subdirectory=pywapi-0.3.8
+requests==2.12.4
+rsa==3.4.2
+simplejson==3.8.2
+six==1.10.0
+update-checker==0.15
+uritemplate==0.6
+wget==3.2
