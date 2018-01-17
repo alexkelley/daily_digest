@@ -1,7 +1,7 @@
 # Alex's Robot
-## Personalized, Automated Daily Digest Script
+## Personalized, automated daily digest of selected web content emailed to a selected group.
 
-Technology used:
+## Technology used:
 * Python3
 * SQL
 * Django
@@ -12,7 +12,7 @@ Technology used:
 * Bash scripting
 * Various publicly available APIs for updated news, weather and horoscope data
 
-Screenshots of daily email sent:
+## Screenshots of the daily email sent:
 
 ![first](https://github.com/alexkelley/daily_digest/blob/master/first.PNG)
 
